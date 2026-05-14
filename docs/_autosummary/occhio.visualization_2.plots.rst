@@ -1,4 +1,4 @@
-occhio.visualization\_2.plots
+﻿occhio.visualization\_2.plots
 =============================
 
 .. automodule:: occhio.visualization_2.plots
@@ -18,11 +18,15 @@ occhio.visualization\_2.plots
 
 
 
-   geometry
+   feature_representation
 
 
 
    representation
+
+
+
+   sae_feature_similarity
 
 
 
